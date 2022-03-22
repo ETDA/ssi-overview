@@ -4,11 +4,8 @@ Self Sovereign Identity: Overview
 
 <p align="center">
     <a href="#where-can-i-find-">Where can I find ...</a> •
-    <a href="#architectural-overview">Architectural Overview</a> •
-    <a href="#about-this-project">About this Project</a> •
-    <a href="#credits">Credits</a> •
-    <a href="#how-to-contribute">How to Contribute</a> •
-    <a href="#licensing">Licensing</a>
+    <a href="#conceptual-overview">Conceptual Overview</a> •
+    <a href="#about-this-project">About this Project</a>
 </p>
 
 ## Where can I find ... 
