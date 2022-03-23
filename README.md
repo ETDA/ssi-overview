@@ -20,7 +20,7 @@ This repository provides an overview over the Self Sovereign Identity project, a
 
 
 [Test Script]: https://github.com/orgs/ETDA/repositories?q=ssi-+script&type=all&language=&sort=
-[Source Code]: https://github.com/orgs/ETDA/repositories?q=ssi&type=all&language=&sort=
+[Source Code]: https://github.com/orgs/ETDA/repositories?q=ssi+NOT+test&type=all&language=&sort=
 
 ## Conceptual Overview
 
