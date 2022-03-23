@@ -15,7 +15,7 @@ This repository provides an overview over the Self Sovereign Identity project, a
 
 | Topic                   | Link                                            | Description                                                                  |
 |-------------------------|-------------------------------------------------|------------------------------------------------------------------------------|
-| Test Scripts               | [Test Script]                                 | Automated API test cases for DGCG.                                           |
+| Test Scripts               | [Test Script]                                 | All test scripts for SSI Application.                                           |
 | Source Code      |  [Source Code] | A list of all other repositories which contains frontend and backend application. |
 
 
